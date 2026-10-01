@@ -1,5 +1,5 @@
-#the goal of this class is to extract salinity values from netcdf
-#i am going to match these up with 
+#the goal of this class is to extract resistivity values from netcdf
+#i am going to match these up with units and well data to predict Cl- from resitivity
 
 import pandas as pd
 import numpy as np
